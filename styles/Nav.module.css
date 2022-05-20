@@ -1,0 +1,12 @@
+.wrap_nav ul {
+    display: flex;
+    margin-bottom: 16px;
+    justify-content: center;
+}
+
+.wrap_nav ul li{
+  margin: 0 18px;
+   list-style: none;
+   font-weight: bold;
+   text-decoration: underline;
+}
