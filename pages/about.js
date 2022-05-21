@@ -18,7 +18,7 @@ const About = () => {
           About - Epsilon-Astronomy
         </h1>
         <div className={styles.description}>
-            Epsilon-Astronomy, a site made for Astronomers to show them the most beautiful pictures of Galaxys, Nebula and more.
+            Epsilon-Astronomy, a site made for Astronomers to show them the most beautiful pictures of Galaxies, Nebula and more.
         </div>
     </div>
     <Footer />
