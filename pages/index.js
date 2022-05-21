@@ -10,7 +10,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Epsilon-Astronomy</title>
-        <meta name="description" content="Epsilon-Astronomy, a site made for Astronomers to show them the most beautiful pictures of Galaxys, Nebula and more." />
+        <meta name="description" content="Epsilon-Astronomy, a site made for Astronomers to show them the most beautiful pictures of Galaxies, Nebula and more." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Nav />
@@ -20,7 +20,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-        Epsilon-Astronomy, a site made for Astronomers to show them the most beautiful pictures of Galaxys, Nebula and more. <br />
+        Epsilon-Astronomy, a site made for Astronomers to show them the most beautiful pictures of Galaxies, Nebula and more. <br />
         These are best Astronomical Images of all time. These beautiful pictures are taken by Hubble Space Telescope.
         </p>
 
