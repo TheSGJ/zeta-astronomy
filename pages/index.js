@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Epsilon-Astronomy</title>
+        <title>Zeta-Astronomy</title>
         <meta name="description" content="Zeta-Astronomy, a site made for Astronomers to show them the most beautiful pictures of Galaxies, Nebula and more." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
