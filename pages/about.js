@@ -8,17 +8,17 @@ const About = () => {
   return (
     <div className={styles.container}>
     <Head>
-        <title>About - Epsilon-Astronomy</title>
-        <meta name="description" content="Epsilon-Astronomy, a site made for Astronomers to show them the most beautiful pictures of Galaxys, Nebula and more." />
+        <title>About - Zeta-Astronomy</title>
+        <meta name="description" content="Zeta-Astronomy, a site made for Astronomers to show them the most beautiful pictures of Galaxys, Nebula and more." />
         <link rel="icon" href="/favicon.ico" />
     </Head>
         <Nav />
     <div className={styles.main}>
         <h1 className={styles.title}>
-          About - Epsilon-Astronomy
+          About - Zeta-Astronomy
         </h1>
         <div className={styles.description}>
-            Epsilon-Astronomy, a site made for Astronomers to show them the most beautiful pictures of Galaxies, Nebula and more.
+            Zeta-Astronomy, a site made for Astronomers to show them the most beautiful pictures of Galaxies, Nebula and more.
         </div>
     </div>
     <Footer />
